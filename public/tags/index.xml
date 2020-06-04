@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PC・スマホのメソッド</title>
+    <link>http://methods.manabisystem.com/tags/</link>
+    <description>Recent content in Tags on PC・スマホのメソッド</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2020 manabisystem.com.</copyright>
+    
+	<atom:link href="http://methods.manabisystem.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

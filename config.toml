@@ -1,0 +1,25 @@
+baseURL = "http://methods.manabisystem.com/"
+languageCode = "ja"
+title = "PC・スマホのメソッド"
+theme = "hugo-theme-simple-blog"
+copyright = "© 2020 manabisystem.com."
+paginate = 5
+DefaultContentLanguage = "ja"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-165312579-3"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[permalinks]
+  posts = "/:slug"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10

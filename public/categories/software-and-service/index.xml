@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software and service on PC・スマホのメソッド</title>
-    <link>http://methods.manabisystem.com/categories/software-and-service/</link>
-    <description>Recent content in software and service on PC・スマホのメソッド</description>
+    <title>software and service on まなびシステム</title>
+    <link>https://manabisystem.com/categories/software-and-service/</link>
+    <description>Recent content in software and service on まなびシステム</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2020 manabisystem.com.</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://methods.manabisystem.com/categories/software-and-service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manabisystem.com/categories/software-and-service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブログの投稿を自動でTwitterに投稿する方法</title>
-      <link>http://methods.manabisystem.com/blog-to-twitter-using-ifttt/</link>
+      <link>https://manabisystem.com/blog-to-twitter-using-ifttt/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/blog-to-twitter-using-ifttt/</guid>
+      <guid>https://manabisystem.com/blog-to-twitter-using-ifttt/</guid>
       <description>無料サービス「IFTTT（イフト）」を使って、RSS（フィード）付きブログの更新情報をTwitterに自動投稿する方法をご紹介いたします</description>
     </item>
     

@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on PC・スマホのメソッド</title>
-    <link>http://methods.manabisystem.com/posts/</link>
-    <description>Recent content in Posts on PC・スマホのメソッド</description>
+    <title>Posts on まなびシステム</title>
+    <link>https://manabisystem.com/posts/</link>
+    <description>Recent content in Posts on まなびシステム</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2020 manabisystem.com.</copyright>
     <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://methods.manabisystem.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manabisystem.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Googleアカウントを新規作成する方法</title>
-      <link>http://methods.manabisystem.com/how-to-create-google-account/</link>
+      <link>https://manabisystem.com/how-to-create-google-account/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/how-to-create-google-account/</guid>
+      <guid>https://manabisystem.com/how-to-create-google-account/</guid>
       <description>今さら聞けないグーグル(Google)のアカウントを作成する方法についてご紹介いたします。</description>
     </item>
     
     <item>
       <title>PCやスマホで文字入力の「全角」と「半角」を理解する</title>
-      <link>http://methods.manabisystem.com/what-is-zenkaku-hankaku/</link>
+      <link>https://manabisystem.com/what-is-zenkaku-hankaku/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/what-is-zenkaku-hankaku/</guid>
+      <guid>https://manabisystem.com/what-is-zenkaku-hankaku/</guid>
       <description>PCやスマホの文字「全角」と「半角」を理解するとトラブルが減ります。その違いをご紹介いたします。</description>
     </item>
     
     <item>
       <title>「フリーソフト」を理解して仕事や作業の効率化の準備をする</title>
-      <link>http://methods.manabisystem.com/what-is-freesoft/</link>
+      <link>https://manabisystem.com/what-is-freesoft/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/what-is-freesoft/</guid>
+      <guid>https://manabisystem.com/what-is-freesoft/</guid>
       <description>仕事や作業の効率化につながる「フリーソフト」の概念をご紹介いたします。</description>
     </item>
     
     <item>
       <title>ギガぞうWi-Fiアプリを利用する上での注意点とその対処法</title>
-      <link>http://methods.manabisystem.com/gigazo-key-trouble/</link>
+      <link>https://manabisystem.com/gigazo-key-trouble/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/gigazo-key-trouble/</guid>
+      <guid>https://manabisystem.com/gigazo-key-trouble/</guid>
       <description>有料公衆Wi-Fiサービス「ギガぞうWi-Fi」をご利用の方向けにサービスをちゃんと利用するポイントと問題のある場合の対処法についてご紹介いたします。</description>
     </item>
     
     <item>
       <title>ブログの投稿を自動でTwitterに投稿する方法</title>
-      <link>http://methods.manabisystem.com/blog-to-twitter-using-ifttt/</link>
+      <link>https://manabisystem.com/blog-to-twitter-using-ifttt/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/blog-to-twitter-using-ifttt/</guid>
+      <guid>https://manabisystem.com/blog-to-twitter-using-ifttt/</guid>
       <description>無料サービス「IFTTT（イフト）」を使って、RSS（フィード）付きブログの更新情報をTwitterに自動投稿する方法をご紹介いたします</description>
     </item>
     
     <item>
       <title>プライバシーを守るためのクッキーの設定方法</title>
-      <link>http://methods.manabisystem.com/how-to-secure-cookie/</link>
+      <link>https://manabisystem.com/how-to-secure-cookie/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/how-to-secure-cookie/</guid>
+      <guid>https://manabisystem.com/how-to-secure-cookie/</guid>
       <description>ホームページ閲覧に欠かせない技術「クッキー」の役割とプライバシー保護の観点からGoogle Chromeを例に適切な設定法をご紹介いたします。</description>
     </item>
     
     <item>
       <title>有料無線LANサービスを利用してギガを節約する方法</title>
-      <link>http://methods.manabisystem.com/how-to-use-gigazo/</link>
+      <link>https://manabisystem.com/how-to-use-gigazo/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/how-to-use-gigazo/</guid>
+      <guid>https://manabisystem.com/how-to-use-gigazo/</guid>
       <description>有料無線LANサービス「ギガぞうWi-Fi」とその導入法をご紹介いたします。</description>
     </item>
     
     <item>
       <title>無料で使える語学学習サービス「Duolingo」の使い方</title>
-      <link>http://methods.manabisystem.com/how-to-use-duolingo/</link>
+      <link>https://manabisystem.com/how-to-use-duolingo/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/how-to-use-duolingo/</guid>
+      <guid>https://manabisystem.com/how-to-use-duolingo/</guid>
       <description>無料でも使える語学学習サービス「Duolingo」とその使い方をご紹介いたします。</description>
     </item>
     
     <item>
       <title>Windows 10で管理者権限でソフトウェアを自動起動させる方法</title>
-      <link>http://methods.manabisystem.com/startup-with-administrator-authority-for-windows-10/</link>
+      <link>https://manabisystem.com/startup-with-administrator-authority-for-windows-10/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://methods.manabisystem.com/startup-with-administrator-authority-for-windows-10/</guid>
+      <guid>https://manabisystem.com/startup-with-administrator-authority-for-windows-10/</guid>
       <description>管理者権限で実行したいソフトウェアをWindows 10の起動時に自動で実行する方法についてご紹介します。</description>
     </item>
     

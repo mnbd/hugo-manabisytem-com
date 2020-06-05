@@ -1,13 +1,13 @@
-baseURL = "https://methods.manabisystem.com/"
+baseURL = "https://manabisystem.com/"
 languageCode = "ja"
-title = "PC・スマホのメソッド"
+title = "まなびシステム"
 theme = "hugo-theme-simple-blog"
 copyright = "© 2020 manabisystem.com."
 paginate = 5
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-165312579-4"
+googleAnalytics = "UA-165312579-3"
 
 [taxonomies]
 category = "categories"

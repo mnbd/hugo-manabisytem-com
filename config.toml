@@ -1,4 +1,4 @@
-baseURL = "http://methods.manabisystem.com/"
+baseURL = "https://methods.manabisystem.com/"
 languageCode = "ja"
 title = "PC・スマホのメソッド"
 theme = "hugo-theme-simple-blog"

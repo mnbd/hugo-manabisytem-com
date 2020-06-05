@@ -7,7 +7,7 @@ paginate = 5
 DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-165312579-3"
+googleAnalytics = "UA-165312579-4"
 
 [taxonomies]
 category = "categories"

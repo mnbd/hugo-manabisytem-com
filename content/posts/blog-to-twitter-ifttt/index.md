@@ -22,7 +22,7 @@ url: "/blog-to-twitter-using-ifttt"
 
 ## IFTTT（イフト）とは
 
-![「IFTTT」ホーム画面](2020-05-15-screenshot-00018.png)
+{{< img src="2020-05-15-screenshot-00018.png" alt="「IFTTT」ホーム画面" >}}
 
 さまざまなWebサービス（Facebook、Twitter、Evernoteなど）を互いに連携させることのできるサービスです。
 
@@ -42,62 +42,77 @@ IFTTTのサービスを利用するにはアカウントの作成が必要にな
 ホームページ閲覧ソフトで[https://ifttt.com/](https://ifttt.com/)を表示する。
 
 ### 2.メールアドレスの入力
-![「メールアドレス」画面](2020-05-15-screenshot-00001.png)
+
+{{< img src="2020-05-15-screenshot-00001.png" alt="「メールアドレス」画面" >}}
 
 ### 3.パスワードを決めて入力
-![「パスワード」画面](2020-05-15-screenshot-00002.png)
+
+{{< img src="2020-05-15-screenshot-00002.png" alt="「パスワード」画面" >}}
 
 ### 4.おすすめ画面をスキップ
-![「おすすめサービス」画面](2020-05-15-screenshot-00003.png)
+
+{{< img src="2020-05-15-screenshot-00003.png" alt="「おすすめサービス」画面" >}}
 
 ### 5.作成完了
-![「作成完了」画面](2020-05-15-screenshot-00004.png)
+
+{{< img src="2020-05-15-screenshot-00004.png" alt="「作成完了」画面" >}}
 
 ## ブログとTwitterを連携させる
 
 ### 1.メニューからアプレット作成
-![「IFTTTホーム」画面](2020-05-15-screenshot-00005.png)
 
-![「IFTTTホーム画面」画面](2020-05-15-screenshot-00006.png)
+{{< img src="2020-05-15-screenshot-00005.png" alt="「IFTTTホーム」画面" >}}
+
+{{< img src="2020-05-15-screenshot-00006.png" alt="「IFTTTホーム画面」画面" >}}
 
 ### 2.「RSS」を登録
 
 「＋」をクリックしてサービスを選択します。
-![「クリエイト」画面](2020-05-15-screenshot-00007.png)
+
+{{< img src="2020-05-15-screenshot-00007.png" alt="「クリエイト」画面" >}}
 
 「RSS」を検索して「RSS Feed」サービスを表示します。
-![「サービス検索」画面](2020-05-15-screenshot-00008.png)
+
+{{< img src="2020-05-15-screenshot-00008.png" alt="「サービス検索」画面" >}}
 
 「RSS Feed」を選択します。
-![「RSS」を検索画面](2020-05-15-screenshot-00009.png)
+
+{{< img src="2020-05-15-screenshot-00009.png" alt="「RSS」を検索画面" >}}
 
 「New Feed Item」を選択します。
-![「トリガー」選択画面](2020-05-15-screenshot-00010.png)
+
+{{< img src="2020-05-15-screenshot-00010.png" alt="「トリガー」選択画面" >}}
 
 「Feed URL」に、ブログの更新情報ファイル(RSSやフィード)のアドレスを入力します。
-![「RSSのURL」登録画面](2020-05-15-screenshot-00011.png)
+
+{{< img src="2020-05-15-screenshot-00011.png" alt="「RSSのURL」登録画面" >}}
 
 オレンジのマークになっていることを確認して、「＋」を選択します。
-![「連携」画面](2020-05-15-screenshot-00012.png)
+
+{{< img src="2020-05-15-screenshot-00012.png" alt="「連携」画面" >}}
 
 ### 3.「Twitter」を登録
 
 サービスを選択します。「Twitter」を検索します。
-![サービス検索画面](2020-05-15-screenshot-00013.png)
+
+{{< img src="2020-05-15-screenshot-00013.png" alt="サービス検索画面" >}}
 
 「Twitter」を検索してください。
-![「Twitter」を検索画面](2020-05-15-screenshot-00014.png)
+
+{{< img src="2020-05-15-screenshot-00014.png" alt="「Twitter」を検索画面" >}}
 
 「Post a tweet」を選択します。
-![「アクション選択」画面](2020-05-15-screenshot-00015.png)
+
+{{< img src="2020-05-15-screenshot-00015.png" alt="「アクション選択」画面" >}}
 
 「Tweet text」に、Twitterに投稿したい文章を入力してください。「EntryTitle」や「EntryUrl」は消さないようにしてください。
-![「投稿メッセージ登録」画面](2020-05-15-screenshot-00016.png)
+{{< img src="2020-05-15-screenshot-00016.png" alt="「投稿メッセージ登録」画面" >}}
 
 ### 4.設定完了
 
 「Finish」を選択すると設定完了です。
-![「完了」画面](2020-05-15-screenshot-00017.png)
+
+{{< img src="2020-05-15-screenshot-00017.png" alt="「完了」画面" >}}
 
 ## あとがき
 

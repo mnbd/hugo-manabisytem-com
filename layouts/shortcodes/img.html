@@ -1,0 +1,16 @@
+<!-- image -->
+<figure class="figure">
+  <a href="{{ .Get "src" }}" target="_blank" title="original size">
+    {{ $original_image := .Page.Resources.GetMatch (.Get "src") }}
+    {{ if $original_image }}
+    {{ $resized := $original_image.Fit "600x480 q80" }}
+    <img src="{{ $resized.RelPermalink }}" class="figure-img img-fluid" alt="{{ .Get "alt" }}">
+    {{ else }}
+    <img src="{{ .Get "src" }}" class="figure-img img-fluid" alt="{{ .Get "alt" }}">
+    {{ end }}
+  </a>
+  <figcaption class="figure-caption text-center">
+    {{ .Get "caption" }}
+  </figcaption>
+</figure>
+<!-- image -->

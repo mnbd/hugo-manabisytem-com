@@ -5,7 +5,7 @@ summary: "静的サイトジェネレーター「Hugo」とホスティングサ
 categories: ["サイト制作"]
 tags: ["Netlify","Hugo"]
 url: "/how-to-add-contact-form-on-netlify"
-draft: true
+draft: false
 ---
 
 静的サイトジェネレーター「Hugo」とホスティングサービス「Netlify」で構築したサイトにお問い合わせフォームをつける方法をご紹介いたします。

@@ -20,6 +20,12 @@ tag = "tags"
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "まなびシステムについて"
     url = "/about/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "お問い合わせ"
+    url = "/contact/"
+    weight = 11

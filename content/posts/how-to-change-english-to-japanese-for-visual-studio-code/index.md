@@ -3,7 +3,7 @@ title: "高機能テキストエディタ「Visual Studio Code」を日本語化
 date: 2020-06-12T11:52:01+09:00
 summary: "オープンソースのMicrosoft社製高機能テキストエディタ「Visual Studio Code」を日本語化する方法をご紹介いたします。"
 categories: ["サービス／ソフト"]
-tags: ["Windows", "Visual Studio Code"]
+tags: ["Windows", "Macintosh", "Visual Studio Code"]
 url: "/how-to-change-english-to-japanese-for-visual-studio-code"
 draft: false
 ---

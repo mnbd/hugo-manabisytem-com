@@ -5,7 +5,7 @@ summary: "オープンソースのMicrosoft社製高機能テキストエディ�
 categories: ["サービス／ソフト"]
 tags: ["Windows", "Visual Studio Code"]
 url: "/how-to-change-english-to-japanese-for-visual-studio-code"
-draft: true
+draft: false
 ---
 
 {{< img src="2020-06-11-screenshot-00001.png" caption="" alt="Visual Studio Codeロゴ画像" >}}

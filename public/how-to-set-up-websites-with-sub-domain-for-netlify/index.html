@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="ja">
+<head>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165312579-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165312579-3');
+</script>
+
+
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Netlify に独自ドメインのサブドメインで複数サイトを公開する方法 - まなびシステム</title>
+  <link href="https://manabisystem.com/css/bootstrap.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="text-center bg-dark pt-5 pb-5 col-12">
+  
+  <a href="https://manabisystem.com/categories/%E3%82%B5%E3%82%A4%E3%83%88%E5%88%B6%E4%BD%9C/" class="text-success">サイト制作</a>
+  
+  <h1 class="text-white pt-4 pb-3">Netlify に独自ドメインのサブドメインで複数サイトを公開する方法</h1>
+  <p class="text-secondary">June 8, 2020</p>
+  
+  <a href="https://manabisystem.com/tags/netlify/" class="text-info">#Netlify</a>
+  
+</header>
+<div class="container">
+  <div class="row pt-5">
+    <div class="col-12">
+      <p>Netlify で独自ドメインのサブドメインを設定してサイトを公開する方法をご紹介いたします。</p>
+<h2 id="前提">前提</h2>
+<p>以下の条件をご理解いただいている方を前提としています。</p>
+<ul>
+<li>Netlifyでの独自ドメインの設定</li>
+<li>Netlifyでのサイト公開（デプロイ）の設定</li>
+<li>公開するサイトのGitリポジトリの設定</li>
+</ul>
+<h2 id="1-サイトの作成">1. サイトの作成</h2>
+<p>Netlify のログイン画面でタイトルの「 ～'s team 」をクリックしてください。</p>
+<p>「New site from Git」ボタンを押してください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00013.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00013_hu75a0b724f19f8774b0e645e3fc8b297b_53150_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="サイト管理画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>作成するサイトに関連付けるリポジトリのサービスを選択してください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00014.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00014_hu40ce967d8f957bb2f70c92db44fad51f_49630_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="Gitサービス選択画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>選択したGitリポジトリによって、ビルドコマンドやパブリッシュディレクトリを設定してください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00015.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00015_huc9772bdd8f98d590f33aec75fbf0b696_28727_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="デプロイ設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<h2 id="2-サブドメインの設定">2. サブドメインの設定</h2>
+<p>「Domain settings」をクリックしてください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00016.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00016_hua617e67a4949907e9e90d3a6070a389d_38664_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="ドメイン設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>「Domains」の項目から「Add custom domain」を設定してください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00017.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00017_hu224ad203187221d034370eb8a27dbfa3_24864_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="ドメイン選択画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>サブドメイン付きの独自ドメインを入力してVerfyをクリックしてください。</p>
+<p>例：blog.manabisystem.com</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00018.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00018_hud4fb2b2e74cfce48a2ce285924ff9e18_22460_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="ドメイン設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>「Yes, add domain」をクリックしてください。ｓ</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00019.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00019_huacc81e56c3fd74f740856363975b4bcd_25606_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="ドメイン設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<h2 id="3-sslhttpsの設定">3. SSL(HTTPS)の設定</h2>
+<p>この設定は、あらかじめ独自ドメインが設定されていて、HTTPSの設定が完了している場合です。</p>
+<p>「Force HTTPS」ボタンをクリックしてください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00020.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00020_hu4eb47336f902682176531b0e54b1f21f_38673_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="HTTPS設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>「Force HTTPS」ボタンをクリックしてください。</p>
+
+<figure class="figure">
+  <a href="2020-06-08-screenshot-00021.png" target="_blank" title="original size">
+    
+    
+    
+    <img src="/how-to-set-up-websites-with-sub-domain-for-netlify/2020-06-08-screenshot-00021_hu097410cbdf9b0a13702776ca5fbdc847_16957_600x480_fit_q80_box_2.png" class="figure-img img-fluid" alt="HTTPS設定画面">
+    
+  </a>
+  <figcaption class="figure-caption text-center">
+    
+  </figcaption>
+</figure>
+
+
+<p>ブラウザでサブドメインにアクセスできるかどうか確認してみてください。</p>
+<h2 id="参考">参考</h2>
+<ul>
+<li>
+<a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a>
+
+</li>
+</ul>
+<p>以上です。読んでいただきありがとうございました。</p>
+
+    </div>
+  </div>
+  <div class="row pt-5 pb-5">
+    <div class="col-6 text-left">
+    
+      <a class="text-reset" href="https://manabisystem.com/how-to-set-up-custom-domain-with-value-domain-and-netlify/">&lt; Value-domain（バリュードメイン）の独自ドメインをNetlifyに設定する方法</a>
+    
+    </div>
+    <div class="col-6 text-right">
+    
+      <a class="text-reset" href="https://manabisystem.com/how-to-count-words-with-notepad-plus-plus/">テキストエディタ「Notepad&#43;&#43;」で文字数をカウントする方法 ></a>
+    
+    </div>
+  </div>
+</div>
+<footer class="text-center bg-dark pt-5 col-12">
+  <a href="https://manabisystem.com/" class="text-muted">Home</a>
+  
+  <a href="/about/" class="text-muted pl-4">まなびシステムについて</a>
+  
+  <a href="/contact/" class="text-muted pl-4">お問い合わせ</a>
+  
+  <p class="pb-4 pt-4 mb-0">© 2020 manabisystem.com. <a href="https://gohugo.io/" class="text-reset">hugo</a> <a href="https://10mohi6.tk" class="text-reset">10mohi6</a> <a href="https://github.com/10mohi6/hugo-theme-simple-blog" class="text-reset">simple-blog</a></p>
+</footer>
+</body>
+</html>

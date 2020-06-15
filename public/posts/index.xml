@@ -7,10 +7,154 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2020 manabisystem.com.</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 14:21:08 +0900</lastBuildDate>
     
 	<atom:link href="https://manabisystem.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>複数の画像ファイルを一括でサイズ変更するフリーソフト「RalphaMini」の使い方</title>
+      <link>https://manabisystem.com/how-to-use-ralphamini/</link>
+      <pubDate>Mon, 15 Jun 2020 14:21:08 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-ralphamini/</guid>
+      <description>複数の画像ファイルを一括でサイズ変更するフリーソフト「RalphaMini」のダウンロードから使い方までをご紹介いたします</description>
+    </item>
+    
+    <item>
+      <title>「関連キーワード取得ツール」の使い方</title>
+      <link>https://manabisystem.com/how-to-use-related-keywords-tool/</link>
+      <pubDate>Mon, 15 Jun 2020 11:50:17 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-related-keywords-tool/</guid>
+      <description>検索キーワードでどのような検索がされているかを調べられるツールをご紹介いたします</description>
+    </item>
+    
+    <item>
+      <title>カラーコードを調べるフリーソフト「Just Color Picker」の使い方</title>
+      <link>https://manabisystem.com/how-to-use-just-color-picker/</link>
+      <pubDate>Sun, 14 Jun 2020 14:22:01 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-just-color-picker/</guid>
+      <description>画面に表示されているカラーコードを調べたり、カラーパレットを表示するフリーソフト「Just Color Picker」をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>無料RSSリーダー「QuiteRSS」の使い方</title>
+      <link>https://manabisystem.com/how-to-use-quiterss/</link>
+      <pubDate>Sat, 13 Jun 2020 18:12:55 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-quiterss/</guid>
+      <description>オープンソースの無料RSSリーダー「QuiteRSS」の使い方をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>[Windows] TwitDuckの使い方</title>
+      <link>https://manabisystem.com/how-to-use-twitduck/</link>
+      <pubDate>Sat, 13 Jun 2020 13:25:20 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-twitduck/</guid>
+      <description>TweetDeckをWindowsアプリとして使う「TwitDuck」のインストールから基本的な使い方をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>高機能テキストエディタ「Visual Studio Code」で現在表示しているファイル名やディレクトリ名をコピーする方法</title>
+      <link>https://manabisystem.com/how-to-copy-the-current-file-name-to-clipboard-for-visual-studio-code/</link>
+      <pubDate>Fri, 12 Jun 2020 16:54:38 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-copy-the-current-file-name-to-clipboard-for-visual-studio-code/</guid>
+      <description>オープンソースのMicrosoft社製高機能テキストエディタ「Visual Studio Code」で、現在表示しているファイル名、拡張子付きファイル名、現在のフォルダ名をクリップボードにコピーする方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>高機能テキストエディタ「Visual Studio Code」を日本語化する方法</title>
+      <link>https://manabisystem.com/how-to-change-english-to-japanese-for-visual-studio-code/</link>
+      <pubDate>Fri, 12 Jun 2020 11:52:01 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-change-english-to-japanese-for-visual-studio-code/</guid>
+      <description>オープンソースのMicrosoft社製高機能テキストエディタ「Visual Studio Code」を日本語化する方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>PNG形式の画像ファイルを一括で圧縮する方法</title>
+      <link>https://manabisystem.com/how-to-use-pngyu-for-windows/</link>
+      <pubDate>Thu, 11 Jun 2020 17:26:54 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-pngyu-for-windows/</guid>
+      <description>PNG形式の画像ファイルを圧縮してくれるオープンソースのソフトウェア「Pngyu」をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>ウェブサイトの背景を暗い色に変更する方法</title>
+      <link>https://manabisystem.com/how-to-use-dark-reader/</link>
+      <pubDate>Thu, 11 Jun 2020 13:33:05 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-use-dark-reader/</guid>
+      <description>ウェブサイトの背景を暗い色に変えるブラウザの拡張機能「Dark Reader」をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>Windowsのzip版（USB Portable版）Visual Studio Codeをインストールする方法</title>
+      <link>https://manabisystem.com/how-to-install-visual-studio-code-for-windows/</link>
+      <pubDate>Wed, 10 Jun 2020 23:45:11 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-install-visual-studio-code-for-windows/</guid>
+      <description>Micorosoft社製テキストエディタ「Visual Studio Code」のzip版（USB起動版/Portable版）のインストール手順をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>ウイルスバスタークラウドで特定のファイルやフォルダを検索から除外する方法</title>
+      <link>https://manabisystem.com/how-to-exclude-specific-files-in-virusbaster/</link>
+      <pubDate>Wed, 10 Jun 2020 16:32:38 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-exclude-specific-files-in-virusbaster/</guid>
+      <description>トレンドマイクロ社のウイルスバスタークラウドで特定のファイルやフォルダを検索対象から除外する方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>AutoHotkeyを使用して定型文を挿入する方法</title>
+      <link>https://manabisystem.com/text-expansion-using-autohotkey/</link>
+      <pubDate>Wed, 10 Jun 2020 12:51:18 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/text-expansion-using-autohotkey/</guid>
+      <description>フリーソフトのプログラム言語「AutoHotkey」を使用して、定型文を挿入する方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>NetlifyとHugoで構築したサイトにお問い合わせフォームをつける方法</title>
+      <link>https://manabisystem.com/how-to-add-contact-form-on-netlify/</link>
+      <pubDate>Tue, 09 Jun 2020 14:40:43 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-add-contact-form-on-netlify/</guid>
+      <description>静的サイトジェネレーター「Hugo」とホスティングサービス「Netlify」で構築したサイトにお問い合わせフォームをつける方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>テキストエディタ「Notepad&#43;&#43;」で文字数をカウントする方法</title>
+      <link>https://manabisystem.com/how-to-count-words-with-notepad-plus-plus/</link>
+      <pubDate>Mon, 08 Jun 2020 22:26:11 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-count-words-with-notepad-plus-plus/</guid>
+      <description>テキストエディタ「Notepad++」で文字数をカウントする方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>Netlify に独自ドメインのサブドメインで複数サイトを公開する方法</title>
+      <link>https://manabisystem.com/how-to-set-up-websites-with-sub-domain-for-netlify/</link>
+      <pubDate>Mon, 08 Jun 2020 16:55:46 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-set-up-websites-with-sub-domain-for-netlify/</guid>
+      <description>ホスティングサービスNetlifyで独自ドメインのサブドメインを利用して複数のサイトを公開する方法をご紹介いたします。</description>
+    </item>
+    
+    <item>
+      <title>Value-domain（バリュードメイン）の独自ドメインをNetlifyに設定する方法</title>
+      <link>https://manabisystem.com/how-to-set-up-custom-domain-with-value-domain-and-netlify/</link>
+      <pubDate>Mon, 08 Jun 2020 13:51:17 +0900</pubDate>
+      
+      <guid>https://manabisystem.com/how-to-set-up-custom-domain-with-value-domain-and-netlify/</guid>
+      <description>Value-Domain（バリュードメイン）で管理する独自ドメインをホスティングサービス Netlify に設定する方法をご紹介いたします。</description>
+    </item>
     
     <item>
       <title>Googleアカウントを新規作成する方法</title>

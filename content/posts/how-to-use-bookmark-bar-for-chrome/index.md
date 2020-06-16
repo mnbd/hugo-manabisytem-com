@@ -5,7 +5,7 @@ summary: "Google社製のウェブブラウザ「Chrome」で、マウスをワ�
 categories: ["サービス／ソフト"]
 tags: ["google", "chrome"]
 url: "/how-to-use-bookmark-bar-for-chrome"
-draft: true
+draft: false
 ---
 
 Google社製のウェブブラウザ「Chrome」で、マウスをワンクリックまたは2クリックで簡単にブックマークにアクセスする方法をご紹介いたします。

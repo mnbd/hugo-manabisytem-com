@@ -5,7 +5,7 @@ summary: "Portable 版とは何かの解説です。"
 categories: ["用語集"]
 tags: ["Windows"]
 url: "/term-usb-portable"
-draft: true
+draft: false
 ---
 
 ## Portable とは？

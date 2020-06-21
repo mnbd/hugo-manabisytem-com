@@ -1,5 +1,5 @@
 ---
-title: "[Windows] 追加ファイル不要で圧縮ファイルを解凍できるフリーソフト「Arcive Decoder」の使い方"
+title: "[Windows] 追加ファイル不要で圧縮ファイルを解凍できるフリーソフト「Archive Decoder」の使い方"
 date: 2020-06-18T10:59:50+09:00
 summary: "Windows で圧縮ファイルを解凍するためのフリーソフト「Archive Decoder」のご紹介です。"
 categories: ["サービス／ソフト"]

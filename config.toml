@@ -16,6 +16,9 @@ tag = "tags"
 [permalinks]
   posts = "/:slug"
 
+[params]
+  custom_css = ["css/custom.css"]
+
 [menu]
 
   [[menu.main]]

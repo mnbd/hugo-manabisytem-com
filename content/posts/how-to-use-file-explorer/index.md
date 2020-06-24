@@ -3,7 +3,7 @@ title: "[Windows 10]エクスプローラーの基本的な使い方"
 date: 2020-06-24T09:42:05+09:00
 summary: "Windows のファイル管理を行うソフトウェア「エクスプローラー」の基本的な使い方をご紹介いたします。"
 categories: ["Windows 10"]
-tags: ["Windows"]
+tags: ["Windows","Microsoft"]
 url: "/how-to-use-windows-explorer"
 draft: false
 ---

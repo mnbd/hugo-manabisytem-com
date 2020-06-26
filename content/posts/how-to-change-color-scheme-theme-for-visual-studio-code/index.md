@@ -50,6 +50,16 @@ Windows だけでなく、Mac OS X や Linux でも動作します。
 
 3. 左側にインストールできる配色テーマの一覧が表示されます。上の検索フォームに「Iceberg Theme」と入力して検索してください。最上部に出てきた「Iceberg Theme」の「インストール」ボタンをクリックすれば完了です。{{< img src="2020-06-26-screenshot-00010.png" caption="" alt="拡張機能検索" >}}
 
+## VSCode の配色テーマサイト
 
+{{< exlink href="https://vscodethemes.com/" text="vscodethemes" >}}では、さまざまな配色テーマを比較して見ることができ、気に入った配色テーマをブラウザからインストールできます。
+
+インストールしたい場合は、気に入ったテーマにマウスカーソルを合わせて「View Extension」をクリックしてください。
+
+- {{< exlink href="https:g//vscodethemes.com/trending" text="流行りのテーマ" >}}{{< img src="2020-06-26-screenshot-00016.png" caption="" alt="Trending" >}}
+
+- {{< exlink href="https://vscodethemes.com/dark" text="ダーク系テーマ" >}}{{< img src="2020-06-26-screenshot-00017.png" caption="" alt="Dark" >}}
+
+- {{< exlink href="https://vscodethemes.com/light" text="ライト系テーマ" >}}{{< img src="2020-06-26-screenshot-00018.png" caption="" alt="ライト系テーマ" >}}
 
 以上です。読んでいただきありがとうございました。

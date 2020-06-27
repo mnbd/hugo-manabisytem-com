@@ -1,0 +1,14 @@
+{{ if .IsNamedParams }}
+<div class="frame frame-caution">
+  <div class="frame-title caution">
+    {{ if .Get "title" }}
+    {{ .Get "title" }}
+    {{ else }}
+    注意
+    {{ end }}
+  </div>
+  <p>
+    {{ .Get "text" }}
+  </p>
+</div>
+{{ end }}

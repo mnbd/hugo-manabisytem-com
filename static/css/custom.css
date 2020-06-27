@@ -49,10 +49,10 @@ h4::after {
 .frame-title .fa {
  margin-right: 5px;
 }
-.attention{
+.attention {
  background-color: #fcc800;
  border: 2px solid #fcc800;
- color: #000;
+ color: #fff;
  border-radius: 3px;
 }
 .frame-attention {

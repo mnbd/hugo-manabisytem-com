@@ -1,0 +1,14 @@
+{{ if .IsNamedParams }}
+<div class="frame frame-point">
+  <div class="frame-title point">
+    {{ if .Get "title" }}
+    {{ .Get "title" }}
+    {{ else }}
+    ポイント
+    {{ end }}
+  </div>
+  <p>
+    {{ .Get "text" }}
+  </p>
+</div>
+{{ end }}

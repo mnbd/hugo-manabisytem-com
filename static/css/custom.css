@@ -58,3 +58,12 @@ h4::after {
 .frame-caution {
  border-color: #c9171e;
 }
+.point {
+ background-color: #19448E;
+ border: 2px solid #19448E;
+ color: #fff;
+ border-radius: 3px;
+}
+.frame-point {
+ border-color: #19448E;
+}

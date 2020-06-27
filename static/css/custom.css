@@ -67,3 +67,12 @@ h4::after {
 .frame-point {
  border-color: #19448E;
 }
+.warning {
+ background-color: #c9171e;
+ border: 2px solid #c9171e;
+ color: #fff;
+ border-radius: 3px;
+}
+.frame-warning {
+ border-color: #c9171e;
+}

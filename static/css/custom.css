@@ -49,14 +49,14 @@ h4::after {
 .frame-title .fa {
  margin-right: 5px;
 }
-.caution {
- background-color: #c9171e;
- border: 2px solid #c9171e;
- color: #fff;
+.attention{
+ background-color: #fcc800;
+ border: 2px solid #fcc800;
+ color: #000;
  border-radius: 3px;
 }
-.frame-caution {
- border-color: #c9171e;
+.frame-attention {
+ border-color: #fcc800;
 }
 .point {
  background-color: #19448E;

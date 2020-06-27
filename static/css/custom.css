@@ -52,7 +52,7 @@ h4::after {
 .attention {
  background-color: #fcc800;
  border: 2px solid #fcc800;
- color: #fff;
+ color: #000;
  border-radius: 3px;
 }
 .frame-attention {

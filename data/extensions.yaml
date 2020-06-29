@@ -1,0 +1,20 @@
+ - extension: doc
+   ruby: どっく
+   name: Word ファイル
+   description: Microsoft Word ファイル。
+ - extension: exe
+   ruby: えぐぜ
+   name: 実行ファイル
+   description: 主に Windows でコンピュータが解釈可能な命令やその関連情報を含むファイル。
+ - extension: txt
+   ruby: てきすと
+   name: テキストファイル
+   description: 文章ファイル。多くのソフトウェアで読み書きができる。
+ - extension: xls
+   ruby: えくせる
+   name: Excel ファイル
+   description: Microsoft Excel のファイル。
+ - extension: yaml
+   ruby: やむる、やめる
+   name: yaml ファイル
+   description: テキストデータのデータ形式の一つ。主に Linux で使用される。

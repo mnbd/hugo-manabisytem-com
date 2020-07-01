@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 のバージョンを確認する方法"
 date: 2020-06-30T13:02:58+09:00
-summary: ""
+summary: "Windows 10 のバージョンとOS ビルド番号を確認する方法をご紹介いたします。"
 categories: ["Windows（ウィンドウズ）の使い方"]
 tags: ["Windows 10（ウィンドウズテン）"]
 url: "/how-to-find-what-version-windows-10-you-are-using"

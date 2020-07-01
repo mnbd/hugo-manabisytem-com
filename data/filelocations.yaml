@@ -1,0 +1,4 @@
+ - software: Windows Terminal（ウィンドウズターミナル）
+   program: wt.exe
+   path: C:\Users\<User Name>\AppData\Local\Microsoft\WindowsApps
+   description:

@@ -58,6 +58,15 @@ Bing|約8千460万|不明
 
 {{</ table >}}
 
+- 「コンビニ」を検索した結果の違い
+  - Google  
+  Googleでは最上位に位置情報を元にした地図や周辺のコンビニの住所が表示される  
+  {{< img src="2020-07-03-screenshot-00003.png" caption="" alt="Googleの検索結果" >}}
+
+  - DuckDuckGo  
+  DuckDuckGoではコンビニの会社が最上位に表示される  
+  {{< img src="2020-07-03-screenshot-00004.png" caption="" alt="DuckDuckGoの検索結果" >}}
+
 ## DuckDuckGoの使い方
 
 1. ブラウザでDuckDuckGoの公式サイト（{{< exlink href="https://duckduckgo.com/" text="https://duckduckgo.com/" >}}）にアクセスしてください。  

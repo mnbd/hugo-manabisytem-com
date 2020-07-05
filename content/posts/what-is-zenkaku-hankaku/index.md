@@ -3,6 +3,7 @@ title: "PCやスマホで文字入力の「全角」と「半角」を理解す�
 date: "2020-06-01"
 description: ""
 summary: "PCやスマホの文字「全角」と「半角」を理解するとトラブルが減ります。その違いをご紹介いたします。"
+tags: ["Windows（ウィンドウズ）の使い方"]
 url: "/what-is-zenkaku-hankaku"
 ---
 

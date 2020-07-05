@@ -2,8 +2,8 @@
 title: "カラーコードを調べるフリーソフト「Just Color Picker」の使い方"
 date: 2020-06-14T14:22:01+09:00
 summary: "画面に表示されているカラーコードを調べたり、カラーパレットを表示するフリーソフト「Just Color Picker」をご紹介いたします。"
-categories: ["サイト制作"]
-tags: ["Windows", "Macintosh"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-use-just-color-picker"
 draft: false
 ---

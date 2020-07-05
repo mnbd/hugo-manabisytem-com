@@ -2,8 +2,8 @@
 title: "ファイル・エクスプローラーで拡張子を表示/非表示にする方法"
 date: 2020-06-26T10:21:06+09:00
 summary: "Windows 10 の File Explorer （ファイル・エクスプローラー）で拡張子を表示/非表示にする方法をご紹介いたします。"
-categories: ["Windows 10"]
-tags: ["Windows"]
+categories: [""]
+tags: ["Windows（ウィンドウズ）の使い方","Windows 10（ウィンドウズテン）"]
 url: "/how-to-show-extension-for-windows"
 draft: false
 ---

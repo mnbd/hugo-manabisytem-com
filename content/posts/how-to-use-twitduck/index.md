@@ -2,8 +2,8 @@
 title: "[Windows] TwitDuckの使い方"
 date: 2020-06-13T13:25:20+09:00
 summary: "TweetDeckをWindowsアプリとして使う「TwitDuck」のインストールから基本的な使い方をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows","Twitter"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-twitduck"
 draft: false
 ---

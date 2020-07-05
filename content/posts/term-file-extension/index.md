@@ -2,8 +2,8 @@
 title: "[Windows]拡張子とは"
 date: 2020-06-23T16:21:18+09:00
 summary: "拡張子とは何かについてご紹介いたします。"
-categories: ["用語集"]
-tags: ["Windows"]
+categories: [""]
+tags: ["用語集"]
 url: "/term-file-extension"
 draft: false
 ---

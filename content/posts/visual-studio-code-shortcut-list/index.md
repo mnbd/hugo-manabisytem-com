@@ -2,8 +2,8 @@
 title: "Visual Studio Code（VSCode）ショートカットキー一覧"
 date: 2020-06-30T15:24:53+09:00
 summary: "Visual Studio Code（ビジュアルスタジオコード） ショートカットキー一覧です。"
-categories: ["サービス／ソフト"]
-tags: [""]
+categories: [""]
+tags: ["Visual Studio Code（ビジュアルスタジオコード）の使い方"]
 url: "/visual-studio-code-shortcut-list"
 draft: false
 ---

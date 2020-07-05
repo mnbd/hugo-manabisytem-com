@@ -2,8 +2,8 @@
 title: "ウイルスバスタークラウドで特定のファイルやフォルダを検索から除外する方法"
 date: 2020-06-10T16:32:38+09:00
 summary: "トレンドマイクロ社のウイルスバスタークラウドで特定のファイルやフォルダを検索対象から除外する方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-exclude-specific-files-in-virusbaster"
 draft: false
 ---

@@ -2,8 +2,8 @@
 title: "[Windows] 軽量PDFリーダー「Sumatora PDF」の使い方"
 date: 2020-06-19T12:52:04+09:00
 summary: "Windows で動作するPDF ファイルの表示や印刷に特化した軽量PDFリーダー「Sumatora PDF」のご紹介です。"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "PDF"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-sumatorapdf-for-windows"
 draft: false
 ---

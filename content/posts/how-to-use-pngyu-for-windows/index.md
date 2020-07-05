@@ -2,8 +2,8 @@
 title: "PNG形式の画像ファイルを一括で圧縮する方法"
 date: 2020-06-11T17:26:54+09:00
 summary: "PNG形式の画像ファイルを圧縮してくれるオープンソースのソフトウェア「Pngyu」をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "Macintosh"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-use-pngyu-for-windows"
 draft: false
 ---

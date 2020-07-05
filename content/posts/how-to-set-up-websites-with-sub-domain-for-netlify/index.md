@@ -1,8 +1,8 @@
 ---
 title: "Netlify に独自ドメインのサブドメインで複数サイトを公開する方法"
 date: 2020-06-08T16:55:46+09:00
-categories: ["サイト制作"]
-tags: ["Netlify"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 summary: "ホスティングサービスNetlifyで独自ドメインのサブドメインを利用して複数のサイトを公開する方法をご紹介いたします。"
 draft: false
 url: "/how-to-set-up-websites-with-sub-domain-for-netlify"

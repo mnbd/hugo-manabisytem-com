@@ -2,8 +2,8 @@
 title: "ウェブサイトの背景を暗い色に変更する方法"
 date: 2020-06-11T13:33:05+09:00
 summary: "ウェブサイトの背景を暗い色に変えるブラウザの拡張機能「Dark Reader」をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Google","Chrome","Firefox","Safari","Microsoft","Edge"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-dark-reader"
 draft: false
 ---

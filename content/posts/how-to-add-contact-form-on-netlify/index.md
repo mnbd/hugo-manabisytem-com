@@ -2,8 +2,8 @@
 title: "NetlifyとHugoで構築したサイトにお問い合わせフォームをつける方法"
 date: 2020-06-09T14:40:43+09:00
 summary: "静的サイトジェネレーター「Hugo」とホスティングサービス「Netlify」で構築したサイトにお問い合わせフォームをつける方法をご紹介いたします。"
-categories: ["サイト制作"]
-tags: ["Netlify","Hugo"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-add-contact-form-on-netlify"
 draft: false
 ---

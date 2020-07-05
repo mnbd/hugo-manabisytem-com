@@ -2,6 +2,7 @@
 title: "Windows 10で管理者権限でソフトウェアを自動起動させる方法"
 date: "2020-05-31"
 summary: "管理者権限で実行したいソフトウェアをWindows 10の起動時に自動で実行する方法についてご紹介します。"
+tags: ["Windows（ウィンドウズ）の使い方"]
 url: "/startup-with-administrator-authority-for-windows-10"
 ---
 

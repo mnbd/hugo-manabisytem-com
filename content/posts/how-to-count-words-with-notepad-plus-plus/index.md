@@ -2,8 +2,8 @@
 title: "テキストエディタ「Notepad++」で文字数をカウントする方法"
 date: 2020-06-08T22:26:11+09:00
 summary: "テキストエディタ「Notepad++」で文字数をカウントする方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Notepad++", "Windows"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 draft: false
 url: "/how-to-count-words-with-notepad-plus-plus"
 ---

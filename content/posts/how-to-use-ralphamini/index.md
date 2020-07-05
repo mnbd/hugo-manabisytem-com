@@ -2,8 +2,8 @@
 title: "複数の画像ファイルを一括でサイズ変更するフリーソフト「RalphaMini」の使い方"
 date: 2020-06-15T14:21:08+09:00
 summary: "複数の画像ファイルを一括でサイズ変更するフリーソフト「RalphaMini」のダウンロードから使い方までをご紹介いたします"
-categories: ["サイト制作"]
-tags: ["Windows", "Macintosh"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-use-ralphamini"
 draft: false
 ---

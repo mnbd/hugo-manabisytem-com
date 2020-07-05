@@ -2,8 +2,8 @@
 title: "レジストリ（registry）とは"
 date: 2020-06-23T11:06:19+09:00
 summary: "レジストリとは何か？と USB Portable のすすめ"
-categories: ["用語集"]
-tags: ["Windows"]
+categories: [""]
+tags: ["用語集"]
 url: "/term-registry"
 draft: false
 ---

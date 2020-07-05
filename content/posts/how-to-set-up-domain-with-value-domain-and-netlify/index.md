@@ -2,8 +2,8 @@
 title: "Value-domain（バリュードメイン）の独自ドメインをNetlifyに設定する方法"
 date: 2020-06-08T13:51:17+09:00
 summary: "Value-Domain（バリュードメイン）で管理する独自ドメインをホスティングサービス Netlify に設定する方法をご紹介いたします。"
-categories: ["サイト制作"]
-tags: ["Netlify", "Valude-domain"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 draft: false
 url: "/how-to-set-up-custom-domain-with-value-domain-and-netlify"
 ---

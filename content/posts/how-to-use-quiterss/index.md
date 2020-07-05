@@ -2,8 +2,8 @@
 title: "無料RSSリーダー「QuiteRSS」の使い方"
 date: 2020-06-13T18:12:55+09:00
 summary: "オープンソースの無料RSSリーダー「QuiteRSS」の使い方をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "Macintosh", "Linxu", "OS/2", "RSS"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-quiterss"
 draft: false
 ---

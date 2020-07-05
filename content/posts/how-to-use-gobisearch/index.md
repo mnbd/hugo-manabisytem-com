@@ -2,8 +2,8 @@
 title: "語尾検索エンジンの使い方"
 date: 2020-06-20T14:50:10+09:00
 summary: "単語の始め（語頭）や終わり（語頭）から条件に当てはまる単語の一覧を表示してくれる「語尾検索エンジン」のご紹介です。"
-categories: ["サービス／ソフト"]
-tags: [""]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-gobisearch"
 draft: false
 ---

@@ -2,8 +2,8 @@
 title: "Windowsのzip版（USB Portable版）Visual Studio Codeをインストールする方法"
 date: 2020-06-10T23:45:11+09:00
 summary: "Micorosoft社製テキストエディタ「Visual Studio Code」のzip版（USB起動版/Portable版）のインストール手順をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "Visual Studio Code"]
+categories: [""]
+tags: ["Visual Studio Code（ビジュアルスタジオコード）の使い方"]
 url: "/how-to-install-visual-studio-code-for-windows"
 draft: false
 ---

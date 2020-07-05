@@ -2,8 +2,8 @@
 title: "TikTok でプロフィールの名前を変更する方法"
 date: 2020-06-24T22:38:09+09:00
 summary: "TikTok のプロフィールの名前を変更する方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Android", "iOS"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-change-name-on-tiktok"
 draft: false
 ---

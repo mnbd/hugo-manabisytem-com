@@ -2,8 +2,8 @@
 title: "Visual Studio Code の配色テーマを変更する方法"
 date: 2020-06-26T17:22:33+09:00
 summary: "Visual Studio Codeの配色テーマを変更する方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Microsoft", "Windows","Linux", "Mac OS X"]
+categories: [""]
+tags: ["Visual Studio Code（ビジュアルスタジオコード）の使い方"]
 url: "/how-to-change-color-scheme-theme-for-visual-studio-code"
 draft: false
 ---

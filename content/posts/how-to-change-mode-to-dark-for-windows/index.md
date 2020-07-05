@@ -2,8 +2,8 @@
 title: "[Windows 10] エクスプローラーの背景色を黒または白に変更する方法"
 date: 2020-06-28T13:44:55+09:00
 summary: "Windows 10 のエクスプローラーの背景色を黒または白に変更する方法をご紹介いたします。"
-categories: ["Windows 10"]
-tags: ["Windows"]
+categories: [""]
+tags: ["Windows（ウィンドウズ）の使い方", "Windows 10（ウィンドウズテン）"]
 url: "/how-to-change-mode-to-light-or-dark-for-windows"
 draft: false
 ---

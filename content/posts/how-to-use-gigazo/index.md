@@ -3,6 +3,7 @@ title: "有料無線LANサービスを利用してギガを節約する方法"
 date: "2020-06-01"
 description: ""
 summary: "有料無線LANサービス「ギガぞうWi-Fi」とその導入法をご紹介いたします。"
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-gigazo"
 ---
 

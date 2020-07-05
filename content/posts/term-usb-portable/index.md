@@ -2,8 +2,8 @@
 title: "USB Portable（USBポータブル） とは"
 date: 2020-06-19T16:42:10+09:00
 summary: "Portable 版とは何かの解説です。"
-categories: ["用語集"]
-tags: ["Windows"]
+categories: [""]
+tags: ["用語集"]
 url: "/term-usb-portable"
 draft: false
 ---

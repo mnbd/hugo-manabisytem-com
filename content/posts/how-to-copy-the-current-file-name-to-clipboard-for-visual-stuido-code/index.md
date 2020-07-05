@@ -2,8 +2,8 @@
 title: "高機能テキストエディタ「Visual Studio Code」で現在表示しているファイル名やディレクトリ名をコピーする方法"
 date: 2020-06-12T16:54:38+09:00
 summary: "オープンソースのMicrosoft社製高機能テキストエディタ「Visual Studio Code」で、現在表示しているファイル名、拡張子付きファイル名、現在のフォルダ名をクリップボードにコピーする方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "Macintosh", "Visual Studio Code"]
+categories: [""]
+tags: ["Visual Studio Code（ビジュアルスタジオコード）の使い方", "拡張機能"]
 url: "/how-to-copy-the-current-file-name-to-clipboard-for-visual-studio-code"
 draft: false
 ---

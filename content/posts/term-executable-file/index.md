@@ -2,8 +2,8 @@
 title: "実行ファイル（executable file）とは"
 date: 2020-06-29T11:35:40+09:00
 summary: "「実行ファイル」とは何かについてご説明いたします。"
-categories: ["用語集"]
-tags: ["Windows"]
+categories: [""]
+tags: ["用語集"]
 url: "/term-executable-file"
 draft: false
 ---

@@ -4,6 +4,7 @@ date: "2020-06-01"
 categories: ["software and service"]
 description: ""
 summary: "無料サービス「IFTTT（イフト）」を使って、RSS（フィード）付きブログの更新情報をTwitterに自動投稿する方法をご紹介いたします"
+tags: ["サービス/ソフトの使い方"]
 url: "/blog-to-twitter-using-ifttt"
 ---
 

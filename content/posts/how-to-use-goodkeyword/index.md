@@ -2,8 +2,8 @@
 title: "検索エンジンで検索されているキーワードを取得するサービス「goodkeyword」の使い方"
 date: 2020-06-17T15:04:44+09:00
 summary: "あるキーワードから、そのキーワードとよく検索されている関連キーワードを表示するサービス「goodkeyword」をご紹介いたします。"
-categories: ["サイト制作"]
-tags: ["google", "Yahoo", "microsoft", "rakuten"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-use-goodkeyword"
 draft: false
 ---

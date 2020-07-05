@@ -2,8 +2,8 @@
 title: "Windows 10 の隠しファイルや隠しフォルダを元に戻す方法"
 date: 2020-06-27T13:33:08+09:00
 summary: "Windows 10 で隠しファイルや隠しファイルに設定したファイルを元に戻す方法をご紹介いたします。"
-categories: ["Windows 10"]
-tags: ["Windows"]
+categories: [""]
+tags: ["Windows（ウィンドウズ）の使い方","Windows 10（ウィンドウズテン）"]
 url: "/how-to-show-hidden-files-and-folders"
 draft: false
 ---

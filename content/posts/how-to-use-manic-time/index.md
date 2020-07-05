@@ -2,8 +2,8 @@
 title: "PC の使用履歴を記録して統計を取る方法"
 date: 2020-06-22T13:44:15+09:00
 summary: "PC の使用履歴を記録して集計し、グラフ表示してくれるソフトウェアの使い方をご紹介いたします"
-categories: ["サービス／ソフト"]
-tags: ["Windows", "Macintosh", "Linux", "Android"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-manic-time"
 draft: false
 ---

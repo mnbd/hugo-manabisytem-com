@@ -2,8 +2,8 @@
 title: "Chromeブラウザで1クリックまたは2クリックでウェブサイトにアクセスする方法"
 date: 2020-06-16T17:08:50+09:00
 summary: "Google社製のウェブブラウザ「Chrome」で、マウスをワンクリックまたは2クリックで簡単にブックマークにアクセスする方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["google", "chrome"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-bookmark-bar-for-chrome"
 draft: false
 ---

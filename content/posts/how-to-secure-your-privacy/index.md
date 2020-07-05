@@ -3,6 +3,7 @@ title: "プライバシーを守るためのクッキーの設定方法"
 date: "2020-06-01"
 description: ""
 summary: "ホームページ閲覧に欠かせない技術「クッキー」の役割とプライバシー保護の観点からGoogle Chromeを例に適切な設定法をご紹介いたします。"
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-secure-cookie"
 ---
 

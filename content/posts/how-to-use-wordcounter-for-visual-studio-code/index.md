@@ -2,8 +2,8 @@
 title: "VSCodeで単語数、文字数、行数、パラグラフ数、読了時間を方法"
 date: 2020-07-01T13:14:56+09:00
 summary: "VSCodeで単語数、文字数、行数、パラグラフ数、読了時間を知る拡張機能「WordCounter」の使い方をご紹介いたします。"
-categories: ["Visual Studio Code（ビジュアルスタジオコード）の使い方"]
-tags: ["拡張機能"]
+categories: [""]
+tags: ["Visual Studio Code（ビジュアルスタジオコード）の使い方", "拡張機能"]
 url: "/how-to-use-wordcounter-for-visual-studio-code"
 draft: false
 ---

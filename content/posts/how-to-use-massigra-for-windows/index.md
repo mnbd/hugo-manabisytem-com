@@ -2,8 +2,8 @@
 title: "シンプルで高速な画像表示ソフト「MassiGra（マッシグラ／まっしぐら）」の使い方"
 date: 2020-06-21T12:50:23+09:00
 summary: "シンプルで高速な画像表示ソフト「MassiGra（マッシグラ／まっしぐら）」のご紹介です。"
-categories: ["サービス／ソフト"]
-tags: ["Windows"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-massigra-for-windows"
 draft: false
 ---

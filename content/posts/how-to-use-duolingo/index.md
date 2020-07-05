@@ -3,6 +3,7 @@ title: "無料で使える語学学習サービス「Duolingo」の使い方"
 date: "2020-06-01"
 description: ""
 summary: "無料でも使える語学学習サービス「Duolingo」とその使い方をご紹介いたします。"
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-use-duolingo"
 ---
 

@@ -3,6 +3,7 @@ title: "Googleアカウントを新規作成する方法"
 date: "2020-06-01"
 description: ""
 summary: "今さら聞けないグーグル(Google)のアカウントを作成する方法についてご紹介いたします。"
+tags: ["サービス/ソフトの使い方"]
 url: "/how-to-create-google-account"
 ---
 

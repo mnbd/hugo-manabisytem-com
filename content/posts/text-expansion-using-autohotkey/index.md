@@ -2,8 +2,8 @@
 title: "AutoHotkeyを使用して定型文を挿入する方法"
 date: 2020-06-10T12:51:18+09:00
 summary: "フリーソフトのプログラム言語「AutoHotkey」を使用して、定型文を挿入する方法をご紹介いたします。"
-categories: ["サービス／ソフト"]
-tags: ["AutoHotkey","Windows"]
+categories: [""]
+tags: ["サービス/ソフトの使い方"]
 url: "/text-expansion-using-autohotkey"
 draft: false
 ---

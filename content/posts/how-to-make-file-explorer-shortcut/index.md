@@ -2,8 +2,8 @@
 title: "[Windows 10]デスクトップ上にエクスプローラーのアイコンを表示して起動する方法"
 date: 2020-06-24T17:44:37+09:00
 summary: "File Explorer のアイコンをデスクトップ上に作成する方法をご紹介いたします。"
-categories: ["Windows 10"]
-tags: ["Windows","Microsoft"]
+categories: [""]
+tags: ["Windows（ウィンドウズ）の使い方","Windows 10（ウィンドウズテン）"]
 url: "/how-to-make-windows-explorer-shortcut"
 draft: false
 ---

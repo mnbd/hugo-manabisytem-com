@@ -2,8 +2,8 @@
 title: "「関連キーワード取得ツール」の使い方"
 date: 2020-06-15T11:50:17+09:00
 summary: "検索キーワードでどのような検索がされているかを調べられるツールをご紹介いたします"
-categories: ["サイト制作"]
-tags: ["Google", "Yahoo", "SEO"]
+categories: [""]
+tags: ["ウェブ/ホームページ制作"]
 url: "/how-to-use-related-keywords-tool"
 draft: false
 ---

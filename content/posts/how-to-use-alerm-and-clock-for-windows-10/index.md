@@ -1,5 +1,5 @@
 ---
-title: "How to Use Alerm and Clock for Windows 10"
+title: "Windows 10の時計アプリ「アラーム＆クロック」の使い方"
 date: 2020-07-15T13:40:40+09:00
 summary: "Windows 10の時計アプリ「アラーム＆クロック」の使い方をご紹介いたします。"
 categories: [""]

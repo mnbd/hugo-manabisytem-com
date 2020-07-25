@@ -1,5 +1,5 @@
 ---
-title: "iPhoneやAndroidのスマホでプログラミングする方法"
+title: "iPhoneやAndroidのスマホでプログラミングできるアプリ「dcoder」の使い方"
 date: 2020-07-25T15:51:40+09:00
 summary: "iPhoneやAndroidでプログラミングできるアプリ「dcoder」のご紹介です。PCからも使用できます。"
 categories: [""]

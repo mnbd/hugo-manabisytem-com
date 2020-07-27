@@ -44,7 +44,7 @@
 </head>
 <body>
 
-  <h1>{{ .Page.Title }}</h1>
+  <h1>まなびシステム検索</h1>
   <input onkeyup="search(this.value)" size="15" autocomplete="off" autofocus placeholder="検索ワード" />
   <span id="inputWord"></span> <span id="resultCount"></span>
   <div id="result"></div>
@@ -115,6 +115,11 @@
       el.innerHTML = '<b>' + count + '</b> 件見つかりました（' + total + '件中）';
     }
   </script>
+
+  <ul>
+    <li><a href="#">トップに戻る</a></li>
+    <li><a href="../">まなびシステム</a></li>
+  </ul>
 
 </body>
 </html>

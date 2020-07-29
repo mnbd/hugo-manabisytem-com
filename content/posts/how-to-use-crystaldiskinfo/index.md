@@ -10,7 +10,7 @@ draft: false
 
 {{< img src="2020-07-29-screenshot-00008.png" caption="" alt="CrystalDiskInfoのアイコン画像" >}}
 
-- 動作検証バージョン：Windows 10 Home（64bit、バージョン：1909、OSビルド：18363.900）
+- 動作検証バージョン：Windows 10 Home（64bit、バージョン：1909、OSビルド：18363.900）＋CrystalDiskInfo（バージョン：8.7.0)
 
 HDD（ハードディスクドライブ）やSSD（ソリッドステートドライブ）は突然壊れるものです。
 

@@ -3,7 +3,7 @@ title: "Windows 10の画面右下に表示される通知を管理して不要�
 date: 2020-07-31T17:51:23+09:00
 summary: "Windows 10の画面右下に表示される通知をすべてオフにしたり、不要なアプリのみオフにしたり、時間帯や作業内容によってオフにする手順をご紹介いたします。"
 categories: [""]
-tags: ["Windows（ウ ィンドウズ）の使い方", "Windows 10（ウィンドウズテン）"]
+tags: ["Windows（ウィンドウズ）の使い方", "Windows 10（ウィンドウズテン）"]
 url: "/how-to-disable-notification"
 draft: false
 ---

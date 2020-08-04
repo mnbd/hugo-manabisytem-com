@@ -1,34 +1,35 @@
-baseURL = "https://manabisystem.com/"
-languageCode = "ja"
-title = "まなびシステム"
-theme = "hugo-theme-simple-blog"
-copyright = "© 2020 manabisystem.com."
-paginate = 5
 DefaultContentLanguage = "ja"
+baseURL = "https://manabisystem.com/"
+copyright = "© 2020 manabisystem.com."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-165312579-3"
+languageCode = "ja"
+paginate = 5
+theme = "hugo-theme-simple-blog"
+timeout = 30000
+title = "まなびシステム"
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 
 [permalinks]
-  posts = "/:slug"
+posts = "/:slug"
 
 [params]
-  custom_css = ["css/custom.css"]
+custom_css = ["css/custom.css"]
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "まなびシステムについて"
-    url = "/about/"
-    weight = 10
+[[menu.main]]
+identifier = "about"
+name = "まなびシステムについて"
+url = "/about/"
+weight = 10
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "お問い合わせ"
-    url = "/contact/"
-    weight = 11
+[[menu.main]]
+identifier = "contact"
+name = "お問い合わせ"
+url = "/contact/"
+weight = 11

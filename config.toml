@@ -7,7 +7,7 @@ googleAnalytics = "UA-165312579-3"
 languageCode = "ja"
 paginate = 5
 theme = "hugo-theme-simple-blog"
-timeout = 30000
+timeout = 90000
 title = "まなびシステム"
 
 [taxonomies]

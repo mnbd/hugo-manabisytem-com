@@ -18,6 +18,8 @@ Google Chrome（グーグル・クローム）でホームページを見てい�
 
 ここではGoogle Chromeで文字サイズや画像を大きく表示する方法をご紹介いたします。
 
+{{< img src="2020-08-21-screenshot-00002.png" caption="文字サイズの比較" alt="文字サイズの比較" >}}
+
 ## Google Chromeで文字サイズを大きくする手順
 
 1. Google Chromeを起動して任意のホームページを表示してください（例：Yahoo Japan）。  
